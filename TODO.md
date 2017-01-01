@@ -1,0 +1,10 @@
+- a vr experience with multiple scale
+  - map with magica voxel - https://ngokevin.github.io/kframe/scenes/aframe/
+  - you move within the map
+  - minecraft models
+- model with magica voxel in the office
+  - helmet on webvr
+- what about a reticle 
+- port the make three.js 360 movies
+- port phoneasvrcontroller.js
+- port minecract - threex.minecraft with a a-frame component
